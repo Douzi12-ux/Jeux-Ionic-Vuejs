@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "testblanc",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

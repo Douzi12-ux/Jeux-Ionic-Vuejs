@@ -1,0 +1,7 @@
+{
+  "name": "testblanc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
